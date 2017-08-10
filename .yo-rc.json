@@ -1,0 +1,16 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "styleguide",
+    "username": "Abhishek",
+    "userEmail": "abhishekgaur61@gmail.com",
+    "stack": "client",
+    "repoHostUrl": "github.com",
+    "userNameSpace": "Abhishek",
+    "client": "ng1",
+    "stylePreprocessor": "less",
+    "server": "",
+    "secure": false,
+    "testsSeparated": true,
+    "cordova": false
+  }
+}
