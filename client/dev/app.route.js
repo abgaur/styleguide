@@ -14,6 +14,10 @@
             templateUrl: "todo/templates/new.html"
             
           })
+          .when("/buttons", {
+            templateUrl: "components/templates/buttons.html"
+            
+          })
           .otherwise({
             redirectTo: "/"
           });
